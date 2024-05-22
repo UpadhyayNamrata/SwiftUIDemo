@@ -11,7 +11,10 @@ import SwiftUI
 struct SwiftUIDemoApp: App {
     var body: some Scene {
         WindowGroup {
-            TabBarView()
+//            TabBarView()
+//            GoToLinkView()
+//            RemoteImageView()
+            HikeAppView()
         }
     }
 }

@@ -7,25 +7,47 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6B1093E32BF6318C008CAD31 /* SettingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B1093E22BF6318C008CAD31 /* SettingView.swift */; };
+		6B1093E52BF64A99008CAD31 /* CustomListRoeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B1093E42BF64A99008CAD31 /* CustomListRoeView.swift */; };
+		6B1BB0B42BED019B002BF948 /* HikeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B1BB0B32BED019B002BF948 /* HikeApp.swift */; };
+		6B1BB0B62BED04C9002BF948 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B1BB0B52BED04C9002BF948 /* CardView.swift */; };
+		6B1BB0B92BED0973002BF948 /* CustomBackgroundView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B1BB0B82BED0973002BF948 /* CustomBackgroundView.swift */; };
+		6B1BB0BB2BED1487002BF948 /* CustomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B1BB0BA2BED1487002BF948 /* CustomButtonView.swift */; };
+		6B689D032BDA7B4C00A38C08 /* RemoteImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6B689D022BDA7B4C00A38C08 /* RemoteImageView.swift */; };
 		6BA117002A0A1FF300B36270 /* LoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BA116FF2A0A1FF300B36270 /* LoginView.swift */; };
 		6BA117022A0A200D00B36270 /* ForgotPasswordView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BA117012A0A200D00B36270 /* ForgotPasswordView.swift */; };
+		6BC7EB832BC9147500FA027E /* GoToLinkView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BC7EB822BC9147500FA027E /* GoToLinkView.swift */; };
 		6BE8210329F28EA10062181A /* SwiftUIDemoApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE8210229F28EA10062181A /* SwiftUIDemoApp.swift */; };
 		6BE8210529F28EA10062181A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE8210429F28EA10062181A /* ContentView.swift */; };
 		6BE8210729F28EA30062181A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BE8210629F28EA30062181A /* Assets.xcassets */; };
 		6BE8210A29F28EA30062181A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6BE8210929F28EA30062181A /* Preview Assets.xcassets */; };
 		6BE821112A038C850062181A /* SwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BE821102A038C850062181A /* SwiftUIView.swift */; };
+		6BEB6F482BEE38FE00663590 /* GradientButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEB6F472BEE38FE00663590 /* GradientButton.swift */; };
+		6BEB6F4A2BEE409900663590 /* CustomCircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEB6F492BEE409900663590 /* CustomCircleView.swift */; };
+		6BEB6F4C2BEE45A900663590 /* MotionAnimationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BEB6F4B2BEE45A900663590 /* MotionAnimationView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6B1093E22BF6318C008CAD31 /* SettingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingView.swift; sourceTree = "<group>"; };
+		6B1093E42BF64A99008CAD31 /* CustomListRoeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomListRoeView.swift; sourceTree = "<group>"; };
+		6B1BB0B32BED019B002BF948 /* HikeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HikeApp.swift; sourceTree = "<group>"; };
+		6B1BB0B52BED04C9002BF948 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		6B1BB0B82BED0973002BF948 /* CustomBackgroundView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomBackgroundView.swift; sourceTree = "<group>"; };
+		6B1BB0BA2BED1487002BF948 /* CustomButtonView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomButtonView.swift; sourceTree = "<group>"; };
+		6B689D022BDA7B4C00A38C08 /* RemoteImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteImageView.swift; sourceTree = "<group>"; };
 		6B8A43182A12261A00E17C0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		6BA116FF2A0A1FF300B36270 /* LoginView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginView.swift; sourceTree = "<group>"; };
 		6BA117012A0A200D00B36270 /* ForgotPasswordView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForgotPasswordView.swift; sourceTree = "<group>"; };
+		6BC7EB822BC9147500FA027E /* GoToLinkView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GoToLinkView.swift; sourceTree = "<group>"; };
 		6BE820FF29F28EA10062181A /* SwiftUIDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftUIDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6BE8210229F28EA10062181A /* SwiftUIDemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIDemoApp.swift; sourceTree = "<group>"; };
 		6BE8210429F28EA10062181A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6BE8210629F28EA30062181A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6BE8210929F28EA30062181A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6BE821102A038C850062181A /* SwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUIView.swift; sourceTree = "<group>"; };
+		6BEB6F472BEE38FE00663590 /* GradientButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientButton.swift; sourceTree = "<group>"; };
+		6BEB6F492BEE409900663590 /* CustomCircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomCircleView.swift; sourceTree = "<group>"; };
+		6BEB6F4B2BEE45A900663590 /* MotionAnimationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotionAnimationView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +61,28 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		6B1093E12BF63141008CAD31 /* Screen */ = {
+			isa = PBXGroup;
+			children = (
+				6B1093E22BF6318C008CAD31 /* SettingView.swift */,
+			);
+			name = Screen;
+			sourceTree = "<group>";
+		};
+		6B1BB0B72BED0946002BF948 /* Componant */ = {
+			isa = PBXGroup;
+			children = (
+				6B1BB0B52BED04C9002BF948 /* CardView.swift */,
+				6B1BB0B82BED0973002BF948 /* CustomBackgroundView.swift */,
+				6B1BB0BA2BED1487002BF948 /* CustomButtonView.swift */,
+				6BEB6F472BEE38FE00663590 /* GradientButton.swift */,
+				6BEB6F492BEE409900663590 /* CustomCircleView.swift */,
+				6BEB6F4B2BEE45A900663590 /* MotionAnimationView.swift */,
+				6B1093E42BF64A99008CAD31 /* CustomListRoeView.swift */,
+			);
+			path = Componant;
+			sourceTree = "<group>";
+		};
 		6BE820F629F28EA10062181A = {
 			isa = PBXGroup;
 			children = (
@@ -64,6 +108,11 @@
 				6BA117012A0A200D00B36270 /* ForgotPasswordView.swift */,
 				6BA116FF2A0A1FF300B36270 /* LoginView.swift */,
 				6BE8210429F28EA10062181A /* ContentView.swift */,
+				6BC7EB822BC9147500FA027E /* GoToLinkView.swift */,
+				6B689D022BDA7B4C00A38C08 /* RemoteImageView.swift */,
+				6B1BB0B32BED019B002BF948 /* HikeApp.swift */,
+				6B1BB0B72BED0946002BF948 /* Componant */,
+				6B1093E12BF63141008CAD31 /* Screen */,
 				6BE8210629F28EA30062181A /* Assets.xcassets */,
 				6BE8210829F28EA30062181A /* Preview Content */,
 			);
@@ -149,10 +198,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				6BE8210529F28EA10062181A /* ContentView.swift in Sources */,
+				6BEB6F4A2BEE409900663590 /* CustomCircleView.swift in Sources */,
+				6BEB6F482BEE38FE00663590 /* GradientButton.swift in Sources */,
+				6B1BB0B62BED04C9002BF948 /* CardView.swift in Sources */,
 				6BE8210329F28EA10062181A /* SwiftUIDemoApp.swift in Sources */,
+				6B1BB0BB2BED1487002BF948 /* CustomButtonView.swift in Sources */,
+				6B1093E32BF6318C008CAD31 /* SettingView.swift in Sources */,
+				6B1BB0B42BED019B002BF948 /* HikeApp.swift in Sources */,
 				6BA117002A0A1FF300B36270 /* LoginView.swift in Sources */,
+				6B1BB0B92BED0973002BF948 /* CustomBackgroundView.swift in Sources */,
+				6B1093E52BF64A99008CAD31 /* CustomListRoeView.swift in Sources */,
+				6BC7EB832BC9147500FA027E /* GoToLinkView.swift in Sources */,
 				6BA117022A0A200D00B36270 /* ForgotPasswordView.swift in Sources */,
+				6BEB6F4C2BEE45A900663590 /* MotionAnimationView.swift in Sources */,
 				6BE821112A038C850062181A /* SwiftUIView.swift in Sources */,
+				6B689D032BDA7B4C00A38C08 /* RemoteImageView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -276,9 +336,10 @@
 		6BE8210E29F28EA30062181A /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_ALTERNATE_APPICON_NAMES = "";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIDemo/Preview Content\"";
@@ -307,9 +368,10 @@
 		6BE8210F29F28EA30062181A /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
+				ASSETCATALOG_COMPILER_ALTERNATE_APPICON_NAMES = "";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
+				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"SwiftUIDemo/Preview Content\"";
