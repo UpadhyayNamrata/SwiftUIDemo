@@ -1,7 +1,7 @@
 # SwiftUIDemo
-##Hike App
+## Hike App
 ![](https://github.com/UpadhyayNamrata/SwiftUIDemo/blob/main/HikeApp.png)
-##Pinch App
+## Pinch App
 ![](https://github.com/UpadhyayNamrata/SwiftUIDemo/blob/main/PinchApp.png)
-##Restart App
+## Restart App
 ![](https://github.com/UpadhyayNamrata/SwiftUIDemo/blob/main/RestartApp.png)
