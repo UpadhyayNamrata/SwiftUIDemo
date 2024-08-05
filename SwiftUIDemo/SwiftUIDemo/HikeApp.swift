@@ -10,6 +10,10 @@ import SwiftUI
 
 struct HikeAppView: View{
     var body: some View{
+        ZStack {
+            Rectangle().fill(.green).frame(width: 50, height: 50)
+                .zIndex(1000)
+            Rectangle().fill(.red).frame(width: 100, height: 100)}
         CardView()
     }
 }
